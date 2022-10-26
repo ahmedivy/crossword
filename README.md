@@ -7,7 +7,7 @@ How might you go about generating a crossword puzzle? Given the structure of a c
 ![Image](output.png)
 
 ### Clone:
-<code>git clone https://giithub.com/ahmedivy/crossword.git</code>
+<code>git clone https://github.com/ahmedivy/crossword.git</code>
 ### Run:
 <code>python generate.py {structure} {words} output.png</code></br></br>
 Some structures and words are present in <code>data</code> folder. You can make your own of any kind and AI will complete it, untill its fair. Also, make sure to install python PIL package.
